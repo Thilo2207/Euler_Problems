@@ -1,6 +1,6 @@
 #Find the prime factors
 def prime_factors():
-    global n
+    
     n = 600851475143
     factors = []
     divisor = 2
